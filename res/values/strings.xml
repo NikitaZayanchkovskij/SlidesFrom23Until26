@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DesignSlideFrom23Until26</string>
+
+    <!-- Строки для BottomNavigationView. -->
+    <string name="favourites_tab">Favourites</string>
+    <string name="music_tab">Music</string>
+    <string name="places_tab">Places</string>
+    <string name="news_tab">News</string>
+    <string name="home_tab">Home</string>
+    <string name="clear_the_list">Clear the list</string>
+    <string name="loading">Loading... Please wait...</string>
+
+</resources>
